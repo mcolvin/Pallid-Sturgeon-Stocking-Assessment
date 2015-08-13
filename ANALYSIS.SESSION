@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="6">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Pallid Sturgeon\Analysis\Pallid-Sturgeon-Stocking-Assessment\src\01_global.R" backupFilePath="" originalFileLastModifTimestamp="1439411494" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Pallid Sturgeon\Analysis\Pallid-Sturgeon-Stocking-Assessment\src\02_load.R" backupFilePath="" originalFileLastModifTimestamp="1439411935" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Pallid Sturgeon\Analysis\Pallid-Sturgeon-Stocking-Assessment\src\03_clean.R" backupFilePath="" originalFileLastModifTimestamp="1439411958" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Pallid Sturgeon\Analysis\Pallid-Sturgeon-Stocking-Assessment\src\04_tables.R" backupFilePath="" originalFileLastModifTimestamp="1439411972" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Pallid Sturgeon\Analysis\Pallid-Sturgeon-Stocking-Assessment\src\05_figures.R" backupFilePath="" originalFileLastModifTimestamp="1439411984" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Pallid Sturgeon\Analysis\Pallid-Sturgeon-Stocking-Assessment\src\06_analysis.R" backupFilePath="" originalFileLastModifTimestamp="1439412004" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Pallid Sturgeon\Analysis\Pallid-Sturgeon-Stocking-Assessment\src\07_main.R" backupFilePath="" originalFileLastModifTimestamp="1439412018" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
